@@ -7,5 +7,5 @@ I'm Ryan, a Massachusetts-based web developer focused on frontend development. I
 - ⚡ Fun fact: Fresno, CA is the largest US city that doesn't have an Interstate Highway running through it.
 
 ## Reach out
-[LinkedIn](https://www.linkedin.com/in/ryan-munsch/)
+[LinkedIn](https://www.linkedin.com/in/ryan-munsch/)\
 [Email me](mailto:ryan.w.munsch@gmail.com)
